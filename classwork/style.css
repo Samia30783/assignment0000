@@ -1,1 +1,45 @@
 /* Your external CSS styles go here */
+body {
+    background-color: lightgrey;
+    width: 1000px;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 10px;
+  }
+  body
+  
+  h2{
+      font-size:20px;
+      font-color: blue;
+      background-color:skyblue;
+      color:black;
+  }
+  
+  h2{
+      text-align: center;
+  }
+
+  P{
+      color:orange;
+  }
+  
+  .light{
+      background-color: white;
+      color:black;
+  }
+
+  #my{
+      width:500px;
+      margin:0px auto;
+  }
+
+  .wrapper{
+      margin: 0 auto;
+      width: 1000px;
+  }
+  
+  
+  
+  
+  
+  
